@@ -1,7 +1,7 @@
 ## Genesis Child Dev
 This project is based on the Genesis Sample Theme by Studiopress
 
-Github project link:
+Github project link: https://github.com/lockjaw1961/Genesis-Child-Dev
 
 
 
